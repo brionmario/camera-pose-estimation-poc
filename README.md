@@ -1,1 +1,0 @@
-# camera-pose-estimation-poc
